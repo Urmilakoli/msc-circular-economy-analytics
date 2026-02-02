@@ -68,9 +68,7 @@ git clone https://github.com/Urmilakoli/dissertation-stainless-steel-analytics.g
 pip install -r requirements.txt
 
 # Run analysis
-python code/01_data_preparation.py
-python code/02_chi_square_tests.py
-# ... etc
+Python
 ```
 
 ---
