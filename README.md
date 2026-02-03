@@ -175,7 +175,7 @@ Python
 🔗 Related Resources
 
 - **Dissertation PDF:** [Link when available]
-- **Tableau Dashboard:** [Public link when deployed]
+- **Tableau Dashboard:**(https://public.tableau.com/views/Jwellerycirculareconomy/Dashboard_2_Sustainability_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **SQL Database Schema:** See `documentation/database_schema.md`
 - **Survey Instrument:** See `documentation/survey_questionnaire.pdf`
 
