@@ -210,7 +210,7 @@ and suggestions are welcome via Issues tab.
 
 **Urmila Ramesh Koli**  
 - **Email:Q1093614@students.berlinsbi.com**
-- **LinkedIn:** Q1093614@students.berlinsbi.com 
+- **LinkedIn:** ww.linkedin.com/in/urmilakoli
 - **University:** Berlin School of Business & Innovation  
 
 ---
